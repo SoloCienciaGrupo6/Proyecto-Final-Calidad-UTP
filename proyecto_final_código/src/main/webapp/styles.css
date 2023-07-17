@@ -935,7 +935,7 @@ menu li:hover .barra-nav {
     color: #fff;
     background: rgba(0, 0, 0, .4);
     text-align: center;
-    font-family: 'Sora';
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .card .back {

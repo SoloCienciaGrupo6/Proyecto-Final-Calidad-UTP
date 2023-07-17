@@ -960,12 +960,10 @@ menu li:hover .barra-nav {
 .card .back h3 {
     font-size: 30px;
     margin-top: 20px;
-    font-family: 'Meera Inimai';
 }
 
 .card .back p {
     letter-spacing: 1px;
-    font-family: 'Meera Inimai';
 }
 
 .card:hover .front {

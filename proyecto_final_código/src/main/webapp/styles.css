@@ -529,7 +529,6 @@ menu li:hover .barra-nav {
     justify-self: center;
     justify-content: center;
     margin: 10px 10px;
-    height: 350px;
 }
 
 .noticia video {
@@ -581,7 +580,6 @@ menu li:hover .barra-nav {
     width: 90%;
     transition: .5s;
     margin-top: 10px;
-    transition: all .5s;
 }
 
 .noticia-img video:hover {
@@ -801,7 +799,6 @@ menu li:hover .barra-nav {
     color: #fff;
     background-color: var(--relleno);
     z-index: 0;
-    transform: scale(1.1);
     z-index: 2;
 }
 

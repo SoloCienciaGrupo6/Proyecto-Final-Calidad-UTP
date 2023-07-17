@@ -491,7 +491,6 @@ menu li:hover .barra-nav {
     align-self: center;
     display: flex;
     flex-direction: row;
-    align-self: start;
     margin: 10px 0;
     color: var(--secundario);
         /*para establecer el espacio que ocupara ese div */
